@@ -7,7 +7,7 @@ Most of us are between 16 and 22 years old, and we use NetherGames to expand our
 ## What we do
 
 - We strive to optimize code for a sometimes horrible programming language to do something it was definitely not intended to do (PHP)
-- We try to make as many projects as reasonable available through the public. At least veryone can benefit from our hours of depression.
+- We try to make as many projects as reasonable available to the public. At least veryone can benefit from our hours of depression.
 - Using Java, C++, Go and Rust to build modular and fast projects that run on our network
 - Using PHPStan (maximum level) on all of our projects to find issues before they ever occur!
 
