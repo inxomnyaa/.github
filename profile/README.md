@@ -1,7 +1,7 @@
 ![NetherGames](https://cdn.nethergames.org/img/logo/one-line-non-flush-light.png)
 ## Who we are
 We are an Australian Minecraft: Bedrock Edition Network with over 2.7 million registered players and over 40 thousand new ones joining us each week! <br/>
-The team is made up of around 20 people, coming from all around the world: America, India, Russia, Germany, Great Britain, Australia, Belgium..
+The team is made up of around 20 people, coming from all around the world: America, India, Russia, Germany, Great Britain, Australia, Belgium etc.
 
 ## What we do
 
